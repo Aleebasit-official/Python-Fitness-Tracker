@@ -1,0 +1,34 @@
+[
+    {
+        "username": "alee",
+        "password": "123",
+        "profile": {
+            "age": 18,
+            "height": 6.0,
+            "weight": 55.0
+        },
+        "activities": [
+            {
+                "workout": "walking",
+                "duration": 15,
+                "date": "2025-12-22 11:16"
+            }
+        ]
+    },
+    {
+        "username": "basit",
+        "password": "1234",
+        "profile": {
+            "age": 18,
+            "height": 6.0,
+            "weight": 50.0
+        },
+        "activities": [
+            {
+                "workout": "bisep",
+                "duration": 60,
+                "date": "2026-01-01 17:56"
+            }
+        ]
+    }
+]
